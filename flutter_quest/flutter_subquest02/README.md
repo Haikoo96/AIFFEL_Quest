@@ -8,8 +8,8 @@
 ![App Implementation Screen](images/appdisplay.png)
 
 # AIFFEL Campus Online Code Peer Review Templete
-- 코더 : 코더의 이름을 작성하세요.
-- 리뷰어 : 리뷰어의 이름을 작성하세요.
+- 코더 : 박해극
+- 리뷰어 : 김영진
 
 
 # PRT(Peer Review Template)
