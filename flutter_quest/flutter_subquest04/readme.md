@@ -5,3 +5,6 @@
 
 # **fastAPI 링크**
 https://af90-35-233-179-232.ngrok-free.app/docs#/default/sample_prediction_sample_get
+
+# **fastAPI response 이미지**
+![Alt text](https://github.com/Haikoo96/aiffel_quest_re/blob/main/flutter_quest/flutter_subquest04/fastapi.png)
