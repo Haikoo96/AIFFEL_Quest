@@ -2,6 +2,7 @@
 1. 우선 역시 dart 와 Flutter가 익숙하지 않아 페이지간 데이터 전송 구현을 chatgpt에 의존했다.
 2. chatgpt의 코드를 보고 학습하는 방향으로 이번 퀘스트를 진행하였다.
 3. 그리고 화면 구성은 책에 있는 코드를 거진 같다가 썼다(아직은 직접 구현은 어렵다.)
+4. 모델 inference 까지 구현이 어려워 우선 user flow를 인지하기 위해 inference 대신 다른 사진을 넣어 퀴즈 형태로 구현했다.
 
 # **화면 구동 사진**
 ![flutter](https://github.com/Haikoo96/aiffel_quest_re/blob/main/mainquest5/%ED%99%94%EB%A9%B4%EA%B5%AC%EB%8F%99.png)
