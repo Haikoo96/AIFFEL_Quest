@@ -8,7 +8,7 @@
 ![flutter](https://github.com/Haikoo96/aiffel_quest_re/blob/main/mainquest5/%ED%99%94%EB%A9%B4%EA%B5%AC%EB%8F%99.png)
 
 # **화면 구성**
-![wireframe](https://github.com/Haikoo96/aiffel_quest_re/blob/main/mainquest5/mqwireframe_v2.png)
+![wireframe](hhttps://github.com/Haikoo96/aiffel_quest_re/blob/main/mainquest5/wireframe.png)
 
 - figma 링크: https://www.figma.com/file/sR3emhW5wsOOGPyLNZ1N2K/Mainquest5?type=design&node-id=9%3A45&mode=design&t=t6cYyc0tbhd8oEgF-1
 
